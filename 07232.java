@@ -37,9 +37,9 @@ class  test07231
 
 		b=gender(strInput());
 
-		if(b==true)
-			System.out.println("남자");
-		else
+		if(!b)
 			System.out.println("여자");
+		else
+			System.out.println("자");
 	}
 }

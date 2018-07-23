@@ -40,6 +40,6 @@ class  test07231
 		if(!b)
 			System.out.println("여자");
 		else
-			System.out.println("자");
+			System.out.println("남자");
 	}
 }
